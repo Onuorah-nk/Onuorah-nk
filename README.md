@@ -3,8 +3,9 @@
 <h2>👨‍💻 Data Analysis Project:</h2>
  
   - [Analyze Project NYSE-Creating Summery Statitics, P&l Statement and Forecasting Scenerio](https://github.com/Onuorah-nk/Project-NYSE.git)
-  -[Malaria Tableau Projects](https://github.com/Onuorah-nk/Malaria--Tablaeu-Projects.git)
-  - [Music-Sq](https://github.com/Onuorah-nk/Music-Sql.git)
+  - [Malaria Tableau Projects](https://github.com/Onuorah-nk/Malaria--Tablaeu-Projects.git)
+  
+  - [Music SQL- Project](https://github.com/Onuorah-nk/Music-Sql.git)
 
 <h2>📺 Certifications</h2>
 
