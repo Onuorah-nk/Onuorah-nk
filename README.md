@@ -11,11 +11,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Onuorah-nkemjika | LinkedIn" width="22px" src="linkedin.com/in/onuorah-nkemjika-0" />][linkedin]
-
-
-[linkedin]: www.linkedin.com/in/onuorah-nkemjika-05a14021b
+[linkedin]: : https://linkedin.com/in/onuorah-nkemjika-05a14021b www.linkedin.com/in/onuorah-nkemjika-05a14021b
 
 <!--
 **Onuorah-nk/Onuorah-nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
