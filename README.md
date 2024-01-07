@@ -2,34 +2,30 @@
 
 <h2>👨‍💻 Data Analysis Project:</h2>
  
-  - [Analyze Project NYSE-Creating Summery Statitics, P&l Statement and Forecasting Scenerio](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyze Project NYSE-Creating Summery Statitics, P&l Statement and Forecasting Scenerio](https://github.com/Onuorah-nk/Project-NYSE.git)
 
 <h2>📺 Certifications</h2>
 
 - [Coursera-Introduction to Data Analysis using Microsoft Excel](https://coursera.org/verify/HBMNQP8BY54H)
-- [Udacity - Nanodegree Business Analytics](
+- [Udacity - Nanodegree Business Analytics](https://graduation.udacity.com/certificate)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: www.linkedin.com/in/onuorah-nkemjika-05a14021b
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Onuorah-nk/Onuorah-nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently looking for working on Data Analyses
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
