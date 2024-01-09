@@ -10,7 +10,7 @@
 <h2>📺 Certifications</h2>
 
 - [Coursera-Introduction to Data Analysis using Microsoft Excel](https://coursera.org/verify/HBMNQP8BY54H)
-- [Udacity - Nanodegree Business Analytics](https://graduation.udacity.com/certificate)
+- [Udacity - Nanodegree](https://confirm.udacity.com/e/65c002f2-3cdb-11ee-a529-5b3289abddbe)
 
 <h2> 🤳 Connect with me:</h2>
 
